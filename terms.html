@@ -4,16 +4,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Products - Sharp Computers</title>
+    <title>Terms & Conditions - Sharp Computers</title>
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
     <link rel="stylesheet" href="css/style.css">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
-        rel="stylesheet">
 </head>
 
 <body>
-    <!-- Header -->
+
     <!-- Header -->
     <header class="header">
         <div class="container header-container">
@@ -23,7 +26,7 @@
             <nav class="navbar">
                 <ul class="nav-links">
                     <li><a href="index.html">Home</a></li>
-                    <li><a href="products.html" class="active">Products</a></li>
+                    <li><a href="products.html">Products</a></li>
                     <li><a href="services.html">Services</a></li>
                     <li><a href="about.html">About</a></li>
                     <li><a href="contact.html" class="btn-primary">Contact Us</a></li>
@@ -39,52 +42,52 @@
 
     <!-- Page Header -->
     <section class="page-header">
-        <div class="container text-center">
-            <h2>Our Products & Partners</h2>
-            <p>Quality Hardware and Software from Global Brands</p>
+        <div class="container">
+            <h1>Terms & Conditions</h1>
+            <p>Please read these terms carefully before using our services.</p>
         </div>
     </section>
 
-    <!-- Products Grid -->
+    <!-- Content -->
     <section class="section-padding">
-        <div class="container">
-            <div class="section-header text-center">
-                <h2>Product Range</h2>
-                <div class="line"></div>
-                <p>We supply a wide range of IT and electronic products sourced from trusted brands.</p>
-            </div>
+        <div class="container" style="max-width: 800px; margin: 0 auto;">
+            <div class="legal-content">
+                <h2>1. Introduction</h2>
+                <p>Welcome to Sharp Computers. By accessing our website and using our services, you agree to comply with
+                    and be bound by the following terms and conditions. If you disagree with any part of these terms,
+                    please do not use our services.</p>
 
-            <div class="search-container margin-bottom-medium text-center">
-                <input type="text" id="product-search" placeholder="Search for products..." class="search-input">
-            </div>
+                <h2 style="margin-top: 2rem;">2. Use of Services</h2>
+                <p>Sharp Computers provides IT solutions, Tally software, and hardware services. You agree to use these
+                    services only for lawful purposes and in a manner that does not infringe the rights of others or
+                    restrict their use and enjoyment of the services.</p>
 
-            <div id="all-products-grid">
-                <!-- Products will be loaded here via JS -->
-                <div class="text-center">Loading products...</div>
+                <h2 style="margin-top: 2rem;">3. Intellectual Property</h2>
+                <p>All content on this website, including text, graphics, logos, and software, is the property of Sharp
+                    Computers or its content suppliers and is protected by international copyright laws. Unauthorized
+                    use of any materials may violate copyright and trademark laws.</p>
+
+                <h2 style="margin-top: 2rem;">4. Limitation of Liability</h2>
+                <p>Sharp Computers will not be liable for any direct, indirect, incidental, or consequential damages
+                    resulting from the use or inability to use our services or for the cost of procurement of substitute
+                    goods and services.</p>
+
+                <h2 style="margin-top: 2rem;">5. Privacy Policy</h2>
+                <p>Your use of our website is also governed by our Privacy Policy. Please review our policy to
+                    understand our practices regarding the collection and use of your personal information.</p>
+
+                <h2 style="margin-top: 2rem;">6. Modifications</h2>
+                <p>Sharp Computers reserves the right to modify these terms and conditions at any time without prior
+                    notice. Your continued use of the website following any changes constitutes your acceptance of the
+                    new terms.</p>
+
+                <h2 style="margin-top: 2rem;">7. Contact Us</h2>
+                <p>If you have any questions about these Terms & Conditions, please contact us at <a
+                        href="mailto:sharpcomputers.vaj@gmail.com"
+                        style="color: var(--primary-color);">sharpcomputers.vaj@gmail.com</a>.</p>
             </div>
         </div>
     </section>
-
-    <!-- Brands Section -->
-    <section class="brands-section section-padding bg-light">
-        <div class="container">
-            <div class="section-header text-center fade-in-up">
-                <h2>Our Technology Partners</h2>
-                <p>We work with industry-leading brands to ensure quality and reliability.</p>
-            </div>
-
-            <div class="brands-grid">
-                <div class="brand-card">Dell</div>
-                <div class="brand-card">HP</div>
-                <div class="brand-card">Lenovo</div>
-                <div class="brand-card">Intel</div>
-                <div class="brand-card">Canon</div>
-                <div class="brand-card">Tally</div>
-                <div class="brand-card">Hikvision</div>
-            </div>
-        </div>
-    </section>
-
 
     <!-- Footer -->
     <footer class="footer">
@@ -105,13 +108,13 @@
                     <li><a href="about.html">About Us</a></li>
                     <li><a href="products.html">Products</a></li>
                     <li><a href="contact.html">Contact</a></li>
-                    <li><a href="terms.html">Terms & Conditions</a></li>
-                    <li><a href="privacy.html">Privacy Policy</a></li>
+                    <li><a href="terms.html" class="active">Terms & Conditions</a></li>
                 </ul>
             </div>
-            <div class="footer-col">
+            <div class="footer-col" id="footer-categories">
                 <h3>Categories</h3>
-                <ul>
+                <ul id="footer-category-list">
+                    <!-- Categories will be dynamic or manual -->
                     <li><a href="index.html#laptops---desktops">Laptops & Desktops</a></li>
                     <li><a href="index.html#gaming-peripherals">Gaming Peripherals</a></li>
                     <li><a href="index.html#office-solutions">Office Solutions</a></li>
@@ -126,7 +129,7 @@
                 <ul>
                     <li><i class="fa-solid fa-location-dot"></i> Gandhinagar, Vijayawada - 520003</li>
                     <li><i class="fa-solid fa-phone"></i> +91 98493 48485</li>
-                    <li><i class="fa-solid fa-envelope"></i><a
+                    <li><i class="fa-solid fa-envelope"></i> <a
                             href="mailto:sharpcomputers.vaj@gmail.com">sharpcomputers.vaj@gmail.com</a></li>
                 </ul>
             </div>
@@ -137,7 +140,6 @@
     </footer>
 
     <script src="js/script.js"></script>
-    <script src="js/all_products.js"></script>
 </body>
 
 </html>

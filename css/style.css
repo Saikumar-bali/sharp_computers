@@ -75,17 +75,17 @@ body {
 }
 
 .section-padding {
-    padding: 80px 0;
+    padding: 30px 0;
 }
 
 /* Reduce top padding for product sections that follow another section */
 #home-product-sections .section-padding {
-    padding-top: 40px;
+    padding-top: 4px;
 }
 
 /* First product section gets normal spacing */
 #home-product-sections .section-padding:first-child {
-    padding-top: 80px;
+    padding-top: 60px;
 }
 
 .text-center {
@@ -554,7 +554,10 @@ img {
 }
 
 .footer ul li {
-    margin-bottom: 10px;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
 }
 
 .footer ul li a {
@@ -564,6 +567,11 @@ img {
 .footer ul li a:hover {
     color: var(--primary-color);
     padding-left: 5px;
+}
+
+/* Contact info icons spacing */
+.footer ul li i {
+    margin-right: 8px;
 }
 
 .footer-bottom {
@@ -583,42 +591,61 @@ img {
         text-align: center;
     }
 
-    .service-row,
-    .service-row.reverse {
-        flex-direction: column;
+    .footer-content {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 576px) {
+    .footer-content {
+        grid-template-columns: 1fr;
         text-align: center;
     }
 
-    .check-list li {
+    .footer ul li {
         justify-content: center;
     }
 
-    .hero-image,
-    .about-img {
-        order: -1;
-        margin-bottom: 40px;
-    }
-
-    .hero-btns {
+    .social-links {
         justify-content: center;
-        display: flex;
     }
+}
 
-    .check-list {
-        display: inline-block;
-        text-align: left;
-    }
+.service-row,
+.service-row.reverse {
+    flex-direction: column;
+    text-align: center;
+}
 
-    .check-list li {
-        justify-content: flex-start;
-    }
+.check-list li {
+    justify-content: center;
+}
 
-    .service-header {
-        justify-content: center;
-        /* Center align header content on small screens if text is centered */
-        text-align: left;
-        /* Keep text left-aligned relative to icon */
-    }
+.hero-image,
+.about-img {
+    order: -1;
+    margin-bottom: 40px;
+}
+
+.hero-btns {
+    justify-content: center;
+    display: flex;
+}
+
+.check-list {
+    display: inline-block;
+    text-align: left;
+}
+
+.check-list li {
+    justify-content: flex-start;
+}
+
+.service-header {
+    justify-content: center;
+    /* Center align header content on small screens if text is centered */
+    text-align: left;
+    /* Keep text left-aligned relative to icon */
 }
 
 @media (max-width: 768px) {
@@ -657,7 +684,12 @@ img {
     }
 
     .footer-content {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 30px;
+    }
+
+    .footer ul li {
+        white-space: normal;
     }
 }
 
@@ -1183,5 +1215,12 @@ img {
         padding: 10px 20px;
         width: 100%;
         max-width: 250px;
+    }
+}
+
+@media (min-width: 993px) {
+    .hero-content {
+        flex-direction: row-reverse;
+        /* This simply reverses the order */
     }
 }

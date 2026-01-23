@@ -4,16 +4,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Products - Sharp Computers</title>
+    <title>Privacy Policy - Sharp Computers</title>
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
     <link rel="stylesheet" href="css/style.css">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
-        rel="stylesheet">
 </head>
 
 <body>
-    <!-- Header -->
+
     <!-- Header -->
     <header class="header">
         <div class="container header-container">
@@ -23,7 +26,7 @@
             <nav class="navbar">
                 <ul class="nav-links">
                     <li><a href="index.html">Home</a></li>
-                    <li><a href="products.html" class="active">Products</a></li>
+                    <li><a href="products.html">Products</a></li>
                     <li><a href="services.html">Services</a></li>
                     <li><a href="about.html">About</a></li>
                     <li><a href="contact.html" class="btn-primary">Contact Us</a></li>
@@ -39,52 +42,50 @@
 
     <!-- Page Header -->
     <section class="page-header">
-        <div class="container text-center">
-            <h2>Our Products & Partners</h2>
-            <p>Quality Hardware and Software from Global Brands</p>
+        <div class="container">
+            <h1>Privacy Policy</h1>
+            <p>Your privacy is important to us. Learn how we handle your data.</p>
         </div>
     </section>
 
-    <!-- Products Grid -->
+    <!-- Content -->
     <section class="section-padding">
-        <div class="container">
-            <div class="section-header text-center">
-                <h2>Product Range</h2>
-                <div class="line"></div>
-                <p>We supply a wide range of IT and electronic products sourced from trusted brands.</p>
-            </div>
+        <div class="container" style="max-width: 800px; margin: 0 auto;">
+            <div class="legal-content">
+                <h2>1. Information We Collect</h2>
+                <p>We collect information that you provide directly to us, such as when you create an account, make a
+                    purchase, or contact us for support. This may include your name, email address, phone number, and
+                    billing information.</p>
 
-            <div class="search-container margin-bottom-medium text-center">
-                <input type="text" id="product-search" placeholder="Search for products..." class="search-input">
-            </div>
+                <h2 style="margin-top: 2rem;">2. How We Use Your Information</h2>
+                <p>We use the information we collect to provide, maintain, and improve our services, to process
+                    transactions, and to communicate with you about products, services, and events.</p>
 
-            <div id="all-products-grid">
-                <!-- Products will be loaded here via JS -->
-                <div class="text-center">Loading products...</div>
+                <h2 style="margin-top: 2rem;">3. Data Security</h2>
+                <p>We implement reasonable security measures to protect the security of your personal information and to
+                    ensure that your data is handled securely and in accordance with this Privacy Policy.</p>
+
+                <h2 style="margin-top: 2rem;">4. Sharing of Information</h2>
+                <p>We do not share your personal information with third parties except as necessary to provide our
+                    services, comply with the law, or protect our rights.</p>
+
+                <h2 style="margin-top: 2rem;">5. Your Choices</h2>
+                <p>You may update or correct your personal information at any time by contacting us. You may also opt
+                    out of receiving promotional communications from us by following the instructions in those
+                    communications.</p>
+
+                <h2 style="margin-top: 2rem;">6. Changes to This Policy</h2>
+                <p>We may update this Privacy Policy from time to time. If we make changes, we will notify you by
+                    revising the date at the top of the policy and, in some cases, providing you with additional notice.
+                </p>
+
+                <h2 style="margin-top: 2rem;">7. Contact Us</h2>
+                <p>If you have any questions about this Privacy Policy, please contact us at <a
+                        href="mailto:sharpcomputers.vaj@gmail.com"
+                        style="color: var(--primary-color);">sharpcomputers.vaj@gmail.com</a>.</p>
             </div>
         </div>
     </section>
-
-    <!-- Brands Section -->
-    <section class="brands-section section-padding bg-light">
-        <div class="container">
-            <div class="section-header text-center fade-in-up">
-                <h2>Our Technology Partners</h2>
-                <p>We work with industry-leading brands to ensure quality and reliability.</p>
-            </div>
-
-            <div class="brands-grid">
-                <div class="brand-card">Dell</div>
-                <div class="brand-card">HP</div>
-                <div class="brand-card">Lenovo</div>
-                <div class="brand-card">Intel</div>
-                <div class="brand-card">Canon</div>
-                <div class="brand-card">Tally</div>
-                <div class="brand-card">Hikvision</div>
-            </div>
-        </div>
-    </section>
-
 
     <!-- Footer -->
     <footer class="footer">
@@ -106,7 +107,7 @@
                     <li><a href="products.html">Products</a></li>
                     <li><a href="contact.html">Contact</a></li>
                     <li><a href="terms.html">Terms & Conditions</a></li>
-                    <li><a href="privacy.html">Privacy Policy</a></li>
+                    <li><a href="privacy.html" class="active">Privacy Policy</a></li>
                 </ul>
             </div>
             <div class="footer-col">
@@ -137,7 +138,6 @@
     </footer>
 
     <script src="js/script.js"></script>
-    <script src="js/all_products.js"></script>
 </body>
 
 </html>
