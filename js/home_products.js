@@ -39,8 +39,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 const categoryProducts = categories[categoryName];
                 const displayProducts = categoryProducts.slice(0, 4);
 
+                // Create section with unique ID for anchor navigation
+                const categoryId = categoryName.toLowerCase().replace(/[\s&\/]/g, '-');
                 const section = document.createElement('section');
                 section.className = 'section-padding';
+                section.id = categoryId;
 
                 section.innerHTML = `
                     <div class="container">
@@ -64,8 +67,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
                                         <p class="price">
                                             ${typeof product.price_in_inr === 'number'
-                                                ? '₹' + product.price_in_inr.toLocaleString('en-IN')
-                                                : product.price_in_inr}
+                        ? '₹' + product.price_in_inr.toLocaleString('en-IN')
+                        : product.price_in_inr}
                                         </p>
 
                                         <a href="products.html" class="btn-text">
