@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products - Sharp Computers</title>
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <!-- Header -->
+    <!-- Header -->
+    <header class="header">
+        <div class="container header-container">
+            <a href="index.html" class="logo">
+                <i class="fa-solid fa-laptop-code"></i> Sharp<span>Computers</span>
+            </a>
+            <nav class="navbar">
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="products.html" class="active">Products</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html" class="btn-primary">Contact Us</a></li>
+                </ul>
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="container text-center">
+            <h2>Our Products & Partners</h2>
+            <p>Quality Hardware and Software from Global Brands</p>
+        </div>
+    </section>
+
+    <!-- Products Grid -->
+    <section class="section-padding">
+        <div class="container">
+            <div class="section-header text-center">
+                <h2>Product Range</h2>
+                <div class="line"></div>
+                <p>We supply a wide range of IT and electronic products sourced from trusted brands.</p>
+            </div>
+
+            <div class="search-container margin-bottom-medium text-center">
+                <input type="text" id="product-search" placeholder="Search for products..." class="search-input">
+            </div>
+
+            <div id="all-products-grid">
+                <!-- Products will be loaded here via JS -->
+                <div class="text-center">Loading products...</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Brands Section -->
+    <section class="brands-section section-padding bg-light">
+        <div class="container">
+            <div class="section-header text-center fade-in-up">
+                <h2>Our Technology Partners</h2>
+                <p>We work with industry-leading brands to ensure quality and reliability.</p>
+            </div>
+
+            <div class="brands-grid">
+                <div class="brand-card">Dell</div>
+                <div class="brand-card">HP</div>
+                <div class="brand-card">Lenovo</div>
+                <div class="brand-card">Intel</div>
+                <div class="brand-card">Canon</div>
+                <div class="brand-card">Tally</div>
+                <div class="brand-card">Hikvision</div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container footer-content">
+            <div class="footer-col">
+                <h3>Sharp Computers</h3>
+                <p>Tally Certified 3-Star Partner. 25+ Years of IT Excellence.</p>
+                <div class="social-links">
+                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                    <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                </div>
+            </div>
+            <div class="footer-col">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="products.html">Products</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h3>Contact Info</h3>
+                <ul>
+                    <li><i class="fa-solid fa-location-dot"></i> Gandhinagar, Vijayawada - 520003</li>
+                    <li><i class="fa-solid fa-phone"></i> +91 98493 48485</li>
+                    <li><i class="fa-solid fa-envelope"></i> sharpcomputers.vaj@gmail.com</li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 Sharp Computers. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+    <script src="js/all_products.js"></script>
+</body>
+
+</html>

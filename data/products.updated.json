@@ -1,0 +1,752 @@
+[
+  {
+    "name": "Cisco 8-Port Gigabit Rackmount Unmanaged Network Switch (CBS110-8T-D-IN)",
+    "category": "Networking / Switches",
+    "image": "assets/images/products/cisco_8_port_gigabit_rackmount_unmanaged_network_switch_cbs110_8t_d_in.jpg",
+    "price_in_inr": "₹4,845",
+    "discount": "Approx. 49% off vs MRP",
+    "rating": 4.8,
+    "description": "Cisco 110 Series 8-port gigabit unmanaged rackmount switch with reliable performance, energy efficiency, and compact design — suitable for small office wired networks. Reviews show strong user satisfaction in India. Typical rating: ~4.8/5.",
+    "availability": "Available"
+  },
+  {
+    "name": "TP-Link TL-SG108E 8-Port Gigabit Easy Smart Switch",
+    "category": "Networking / Switches",
+    "image": "assets/images/products/tp_link_tl_sg108e_8_port_gigabit_easy_smart_switch.jpg",
+    "price_in_inr": 2999,
+    "discount": null,
+    "rating": 4.7,
+    "description": "TP-Link TL-SG108E 8-Port Gigabit Easy Smart Switch with advanced features like VLAN, QoS and IGMP Snooping for optimized network performance — ideal for small office/home office setups. It combines unmanaged simplicity with basic smart management. Typical user rating ~4.7/5 in India reviews. :contentReference[oaicite:0]{index=0}",
+    "availability": "In Stock"
+  },
+  {
+    "name": "D-Link DIR-825 Wireless Router",
+    "category": "Networking / Routers",
+    "image": "assets/images/products/d_link_dir_825_wireless_router.jpg",
+    "price_in_inr": 1999,
+    "discount": "Varies by seller (often discounts from ₹3,200+ list price)",
+    "rating": 3.6,
+    "description": "Dual-band AC1200 Wi-Fi Gigabit router with 802.11ac support, four LAN ports and USB — a basic home/SME wireless solution in India.",
+    "availability": "In Stock"
+  },
+  {
+    "name": "Netgear GS308 Gigabit Switch",
+    "category": "Networking / Switches",
+    "image": "assets/images/products/netgear_gs308_gigabit_switch.jpg",
+    "price_in_inr": 3930,
+    "discount": null,
+    "rating": 4.8,
+    "description": "8-port gigabit unmanaged Ethernet switch from Netgear — plug-and-play network expansion with high reliability and strong reviews.",
+    "availability": "In Stock"
+  },
+  {
+    "name": "TP-Link Archer C6 Gigabit Router",
+    "category": "Networking / Routers",
+    "image": "assets/images/products/tp_link_archer_c6_gigabit_router.jpg",
+    "price_in_inr": 2449,
+    "discount": null,
+    "rating": 4.7,
+    "description": "AC1200 dual-band MU-MIMO gigabit wireless router with good overall performance for home/small office Wi-Fi in India.",
+    "availability": "In Stock"
+  },
+  {
+    "name": "TP-Link LS1005 5-Port Switch",
+    "category": "Networking / Switches",
+    "image": "assets/images/products/tp_link_ls1005_5_port_switch.jpg",
+    "price_in_inr": 549,
+    "discount": null,
+    "rating": 4.9,
+    "description": "Unmanaged 5-port desktop Ethernet switch — simple and affordable wired network expansion.",
+    "availability": "In Stock"
+  },
+  {
+    "name": "TP-Link Archer AX12 AX1500 Wi-Fi 6 Router",
+    "category": "Networking / Routers",
+    "image": "assets/images/products/tp_link_archer_ax12_ax1500_wifi6_router.jpg",
+    "price_in_inr": 3625,
+    "discount": null,
+    "rating": 4.8,
+    "description": "AX1500 Wi-Fi 6 dual-band gigabit router with improved speed, OFDMA & MU-MIMO for better performance with multiple devices — ideal for streaming, gaming and smart homes in India.",
+    "availability": "In Stock"
+  },
+  {
+    "name": "D-Link R12 AC1200 Smart Router",
+    "category": "Networking / Routers",
+    "image": "assets/images/products/d_link_r12_ac1200_smart_router.jpg",
+    "price_in_inr": 1684,
+    "discount": null,
+    "rating": 4.8,
+    "description": "AC1200 dual-band smart router with easy app control, good coverage and reliable performance for everyday home Wi-Fi use in India.",
+    "availability": "In Stock"
+  },
+  {
+    "name": "TP-Link TL-WN725N USB Wi-Fi Adapter",
+    "category": "Networking / Adapters",
+    "image": "assets/images/products/tp_link_tl_wn725n_usb_wi_fi_adapter.jpg",
+    "price_in_inr": 429,
+    "discount": null,
+    "rating": 4.8,
+    "description": "Compact USB Wi-Fi adapter supporting up to 150Mbps — great for adding wireless to PCs/laptops.",
+    "availability": "In Stock"
+  },
+  {
+    "name": "Zebronics ZEB-USB300WFD WiFi USB Adapter",
+    "category": "Networking / Adapters",
+    "image": "assets/images/products/zebronics_zeb_usb300wfd_wifi_usb_adapter.jpg",
+    "price_in_inr": 499,
+    "discount": null,
+    "rating": 4.0,
+    "description": "300Mbps USB Wi-Fi adapter with reliable connection and compact design — suitable for everyday browsing and streaming.",
+    "availability": "In Stock"
+  },
+  {
+    "name": "Tenda W311MI Wireless N150 USB Adapter Nano",
+    "category": "Networking / Adapters",
+    "image": "assets/images/products/tenda_w311mi_wireless_n150_usb_adapter_nano.jpg",
+    "price_in_inr": 499,
+    "discount": null,
+    "rating": 4.7,
+    "description": "Tiny wireless USB adapter with N150 speed — easy to use and ideal for laptops and desktops needing basic Wi-Fi connectivity.",
+    "availability": "In Stock"
+  },
+  {
+    "name": "Ant Esports AE200M 150 Mbps Wi-Fi Nano Dongle",
+    "category": "Networking / Adapters",
+    "image": "assets/images/products/ant_esports_ae200m_150_mbps_wifi_nano_dongle.jpg",
+    "price_in_inr": 239,
+    "discount": null,
+    "rating": 4.2,
+    "description": "Affordable 150Mbps Wi-Fi USB nano dongle — great budget choice for adding basic wireless support.",
+    "availability": "In Stock"
+  },
+  {
+    "name": "Dell Alienware 18 Area-51 Gaming Laptop",
+    "image": "assets/images/products/dell_alienware_18_area_51_gaming_laptop.jpg",
+    "price_in_inr": "₹2,85,990",
+    "discount": null,
+    "rating": 4.8,
+    "description": "Flagship 18-inch gaming laptop with top-tier hardware and a massive high-refresh-rate display. For gamers who want uncompromising performance. :contentReference[oaicite:0]{index=1}",
+    "availability": "In Stock",
+    "category": "Laptops & Desktops"
+  },
+  {
+    "name": "ASUS Zenbook 14 OLED UX3405CA",
+    "image": "assets/images/products/asus_zenbook_14_oled_ux3405ca.jpg",
+    "price_in_inr": "₹1,64,990",
+    "discount": "Approx. 8% off vs MRP",
+    "rating": 4.7,
+    "description": "Premium ultraportable laptop featuring Intel Core Ultra 9 processor and a stunning OLED display. A high-end choice for professionals needing portability and power. :contentReference[oaicite:0]{index=1}",
+    "availability": "In Stock",
+    "category": "Laptops & Desktops"
+  },
+  {
+    "name": "MSI Prestige 16 AI Evo B2HMG",
+    "image": "assets/images/products/msi_prestige_16_ai_evo_b2hmg.jpg",
+    "price_in_inr": "₹1,49,999",
+    "discount": null,
+    "rating": 4.6,
+    "description": "AI-enhanced laptop with Intel Core Ultra 9, QHD+ display, and good battery life. A balanced premium laptop for content creators and professionals. :contentReference[oaicite:0]{index=1}",
+    "availability": "In Stock",
+    "category": "Laptops & Desktops"
+  },
+  {
+    "name": "HP ZBook 8 G1i Mobile Workstation",
+    "image": "assets/images/products/hp_zbook_8_g1i_mobile_workstation.jpg",
+    "price_in_inr": "₹1,46,531",
+    "discount": "From price",
+    "rating": 4.5,
+    "description": "Professional mobile workstation with Intel Core Ultra 7, NVIDIA RTX 500 Ada GPU, and 32GB RAM. Engineered for demanding tasks like 3D rendering and data science. :contentReference[oaicite:0]{index=1}",
+    "availability": "Available",
+    "category": "Laptops & Desktops"
+  },
+  {
+    "name": "Acer Aspire 5 A515-57G",
+    "image": "assets/images/products/acer_aspire_5_a515_57g.jpg",
+    "price_in_inr": "₹58,999",
+    "discount": "Approx. 12% off vs MRP",
+    "rating": 4.3,
+    "description": "Popular budget multimedia laptop with Intel Core i5, NVIDIA MX550 graphics, and full HD display. Good for everyday tasks and light gaming.",
+    "availability": "In Stock",
+    "category": "Laptops & Desktops"
+  },
+  {
+    "name": "Apple MacBook Air M3 (13-inch)",
+    "image": "assets/images/products/apple_macbook_air_m3_13_inch.jpg",
+    "price_in_inr": "₹1,14,990",
+    "discount": null,
+    "rating": 4.8,
+    "description": "Ultra-thin laptop with Apple M3 chip, 18-hour battery life, and Liquid Retina display. Ideal for students and professionals in the Apple ecosystem.",
+    "availability": "In Stock",
+    "category": "Laptops & Desktops"
+  },
+  {
+    "name": "Lenovo Yoga 7i 2-in-1 (2024)",
+    "image": "assets/images/products/lenovo_yoga_7i_2_in_1_2024.jpg",
+    "price_in_inr": "₹89,990",
+    "discount": "Approx. 10% off vs MRP",
+    "rating": 4.4,
+    "description": "Versatile 2-in-1 convertible laptop with 360-degree hinge, Intel Core Ultra 5, and OLED touchscreen. Perfect for flexible work and entertainment.",
+    "availability": "In Stock",
+    "category": "Laptops & Desktops"
+  },
+  {
+    "name": "Dell Inspiron 3530 All-in-One Desktop",
+    "image": "assets/images/products/dell-inspiron-all-in-one.jpg",
+    "price_in_inr": "₹64,990",
+    "discount": "Approx. 15% off vs MRP",
+    "rating": 4.2,
+    "description": "Space-saving all-in-one desktop with 23.8-inch FHD display, Intel Core i5, and 16GB RAM. Great for home offices and limited spaces.",
+    "availability": "In Stock",
+    "category": "Laptops & Desktops"
+  },
+  {
+    "name": "Lenovo LOQ 15IAX9 Gaming Laptop",
+    "image": "assets/images/products/lenovo_loq_15iax9_gaming_laptop.jpg",
+    "price_in_inr": "₹69,999",
+    "discount": "Approx. 15% off vs MRP",
+    "rating": 4.5,
+    "description": "Budget gaming laptop with NVIDIA RTX 3050 graphics and a 144Hz display. Winner in the under ₹70,000 category for its balanced performance. Ideal for entry-level gaming. :contentReference[oaicite:0]{index=1}",
+    "availability": "In Stock",
+    "category": "Laptops & Desktops"
+  },
+  {
+    "name": "HP Victus 15-fa2009xx (2025)",
+    "image": "assets/images/products/hp_victus_15_fa2009xx_2025.jpg",
+    "price_in_inr": "₹1,19,990",
+    "discount": "Launch price",
+    "rating": 4.6,
+    "description": "Mid-range gaming laptop featuring a power-efficient 80W NVIDIA RTX 5060, 24GB RAM, and 1TB SSD. Praised for its smart balance of power and thermal management. :contentReference[oaicite:0]{index=1}",
+    "availability": "In Stock",
+    "category": "Laptops & Desktops"
+  },
+  {
+    "name": "ASUS TUF Gaming F16 FX608JPR",
+    "image": "assets/images/products/asus_tuf_gaming_f16_fx608jpr.jpg",
+    "price_in_inr": "₹1,79,990",
+    "discount": null,
+    "rating": 4.7,
+    "description": "High-performance gaming laptop with NVIDIA RTX 5070 graphics and a 2.5K 165Hz display. Offers strong price-to-performance ratio for serious gamers. :contentReference[oaicite:0]{index=1}",
+    "availability": "In Stock",
+    "category": "Laptops & Desktops"
+  },
+  {
+    "name": "Lenovo ThinkBook 16 Gen 7",
+    "image": "assets/images/products/lenovo_thinkbook_16_gen_7.jpg",
+    "price_in_inr": "₹44,500",
+    "discount": "Approx. 10% off vs MRP",
+    "rating": 4.4,
+    "description": "Affordable non-gaming laptop with an HS-series processor, 16-inch display, and user-upgradable dual RAM & SSD slots. Excellent for students and office work. :contentReference[oaicite:0]{index=1}",
+    "availability": "In Stock",
+    "category": "Laptops & Desktops"
+  },
+  {
+    "name": "Dell 14 Plus 2-in-1 Laptop",
+    "image": "assets/images/products/dell_14_plus_2_in_1_laptop.jpg",
+    "price_in_inr": "₹94,999",
+    "discount": null,
+    "rating": 4.5,
+    "description": "Versatile 2-in-1 laptop featuring AMD Ryzen AI 5 or AI 7 processors, a convertible hinge, and all-day battery life. A future-ready device for productivity. :contentReference[oaicite:0]{index=1}",
+    "availability": "In Stock",
+    "category": "Laptops & Desktops"
+  },
+  {
+    "name": "HP 240R G10 Business Laptop",
+    "image": "assets/images/products/hp_240r_g10_business_laptop.jpg",
+    "price_in_inr": "₹71,666",
+    "discount": "From price",
+    "rating": 4.3,
+    "description": "Entry-level business laptop from HP with Intel Core 5 processor, 16GB RAM, and 512GB SSD. Reliable for everyday business tasks. :contentReference[oaicite:0]{index=1}",
+    "availability": "Available",
+    "category": "Laptops & Desktops"
+  },
+  {
+    "name": "HP EliteBook 8 G1i AI PC",
+    "image": "assets/images/products/hp_elitebook_8_g1i_ai_pc.jpg",
+    "price_in_inr": "₹1,36,172",
+    "discount": "From price",
+    "rating": 4.6,
+    "description": "Mid-range Copilot+ AI PC with Intel Core Ultra 7, 32GB RAM, and 1TB SSD. Designed for business professionals needing AI-enhanced productivity. :contentReference[oaicite:0]{index=1}",
+    "availability": "Available",
+    "category": "Laptops & Desktops"
+  },
+  {
+    "name": "HP OMEN 35L Gaming Desktop GT16-0017in",
+    "image": "assets/images/products/hp_omen_35l_gaming_desktop_gt16_0017in.jpg",
+    "price_in_inr": "₹1,57,324",
+    "discount": "From price",
+    "rating": 4.6,
+    "description": "Configurable high-performance gaming desktop featuring OMEN Cryo Chamber cooling technology. A powerful pre-built system for demanding games. :contentReference[oaicite:0]{index=1}",
+    "availability": "Available",
+    "category": "Laptops & Desktops"
+  },
+  {
+    "name": "Intel Core i5-13400F Processor",
+    "image": "assets/images/products/intel_core_i5_13400f_processor.jpg",
+    "price_in_inr": "₹17,499",
+    "discount": "Approx. 12% off vs MRP",
+    "rating": 4.6,
+    "description": "Mid-range 13th Gen processor with 10 cores (6P+4E), 16 threads, and up to 4.6GHz boost. Excellent for gaming and productivity. No integrated graphics.",
+    "availability": "In Stock",
+    "category": "PC Components"
+  },
+  {
+    "name": "AMD Ryzen 5 7600X Processor",
+    "image": "assets/images/products/amd_ryzen_5_7600x_processor.jpg",
+    "price_in_inr": "₹21,800",
+    "discount": null,
+    "rating": 4.7,
+    "description": "AM5 socket processor with 6 cores, 12 threads, and 5.3GHz boost. Includes Radeon Graphics. Great for gaming and content creation on modern platforms.",
+    "availability": "In Stock",
+    "category": "PC Components"
+  },
+  {
+    "name": "Corsair Vengeance LPX 16GB (8GBx2) DDR4 3200MHz",
+    "image": "assets/images/products/corsair_vengeance_lpx_16gb_8gbx2_ddr4_3200mhz.jpg",
+    "price_in_inr": "₹3,850",
+    "discount": "Approx. 10% off vs MRP",
+    "rating": 4.8,
+    "description": "Dual-channel DDR4 RAM kit with low-profile heat spreader. Ideal for Intel and AMD systems. 3200MHz speed with CL16 latency.",
+    "availability": "In Stock",
+    "category": "PC Components"
+  },
+  {
+    "name": "G.Skill Trident Z5 RGB 32GB (16GBx2) DDR5 6000MHz",
+    "image": "assets/images/products/g_skill_trident_z5_rgb_32gb_16gbx2_ddr5_6000mhz.jpg",
+    "price_in_inr": "₹11,999",
+    "discount": null,
+    "rating": 4.7,
+    "description": "High-performance DDR5 RAM with RGB lighting. 6000MHz speed optimized for AMD Ryzen 7000 and Intel 12th/13th Gen. CL36 latency.",
+    "availability": "In Stock",
+    "category": "PC Components"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 4060 Ti 8GB (Dual Fan)",
+    "image": "assets/images/products/nvidia_geforce_rtx_4060_ti_8gb_dual_fan.jpg",
+    "price_in_inr": "₹39,999",
+    "discount": "Approx. 8% off vs MRP",
+    "rating": 4.5,
+    "description": "Mid-range GPU with DLSS 3, 8GB GDDR6 memory. Great for 1080p and 1440p gaming. Efficient Ada Lovelace architecture.",
+    "availability": "In Stock",
+    "category": "PC Components"
+  },
+  {
+    "name": "AMD Radeon RX 7800 XT 16GB",
+    "image": "assets/images/products/amd_radeon_rx_7800_xt_16gb.jpg",
+    "price_in_inr": "₹52,500",
+    "discount": null,
+    "rating": 4.6,
+    "description": "High-performance GPU with 16GB GDDR6 memory. Excellent for 1440p and 4K gaming. Supports FSR 3 technology.",
+    "availability": "In Stock",
+    "category": "PC Components"
+  },
+  {
+    "name": "Samsung 980 Pro 1TB NVMe M.2 SSD",
+    "image": "assets/images/products/samsung_980_pro_1tb_nvme_m_2_ssd.jpg",
+    "price_in_inr": "₹8,499",
+    "discount": "Approx. 20% off vs MRP",
+    "rating": 4.9,
+    "description": "PCIe 4.0 NVMe SSD with read speeds up to 7000MB/s. Excellent for OS, gaming, and professional applications. Includes heatsink.",
+    "availability": "In Stock",
+    "category": "PC Components"
+  },
+  {
+    "name": "Crucial P3 2TB NVMe M.2 SSD",
+    "image": "assets/images/products/crucial_p3_2tb_nvme_m_2_ssd.jpg",
+    "price_in_inr": "₹9,999",
+    "discount": null,
+    "rating": 4.6,
+    "description": "Value-oriented PCIe 3.0 SSD with 3500MB/s read speeds. Great for expanding storage for games and media. 2TB capacity.",
+    "availability": "In Stock",
+    "category": "PC Components"
+  },
+  {
+    "name": "ASUS TUF Gaming B760-PLUS WiFi DDR5 Motherboard",
+    "image": "assets/images/products/asus_tuf_gaming_b760_plus_wifi_ddr5_motherboard.jpg",
+    "price_in_inr": "₹18,999",
+    "discount": "Approx. 5% off vs MRP",
+    "rating": 4.5,
+    "description": "LGA1700 motherboard for Intel 12th/13th/14th Gen. DDR5 support, PCIe 5.0, WiFi 6, and robust power delivery. Military-grade components.",
+    "availability": "In Stock",
+    "category": "PC Components"
+  },
+  {
+    "name": "Gigabyte B650 Gaming X AX DDR5 Motherboard",
+    "image": "assets/images/products/gigabyte_b650_gaming_x_ax_ddr5_motherboard.jpg",
+    "price_in_inr": "₹17,500",
+    "discount": null,
+    "rating": 4.4,
+    "description": "AM5 socket motherboard for AMD Ryzen 7000 series. DDR5 support, PCIe 4.0, WiFi 6E, and 2.5GbE LAN. Good value for AM5 builds.",
+    "availability": "In Stock",
+    "category": "PC Components"
+  },
+  {
+    "name": "Deepcool AK620 Digital CPU Air Cooler",
+    "image": "assets/images/products/deepcool_ak620_digital_cpu_air_cooler.jpg",
+    "price_in_inr": "₹5,499",
+    "discount": "Approx. 15% off vs MRP",
+    "rating": 4.7,
+    "description": "Dual-tower air cooler with digital temperature display. Supports Intel LGA1700 and AMD AM5. 260W TDP rating for high-end CPUs.",
+    "availability": "In Stock",
+    "category": "PC Components"
+  },
+  {
+    "name": "Cooler Master MWE 750 V2 80+ Bronze Power Supply",
+    "image": "assets/images/products/cooler_master_mwe_750_v2_80_bronze_power_supply.jpg",
+    "price_in_inr": "₹6,299",
+    "discount": null,
+    "rating": 4.5,
+    "description": "750W 80+ Bronze certified PSU. Semi-modular cables, 120mm silent fan, and DC-to-DC circuitry. Reliable for mid-range gaming PCs.",
+    "availability": "In Stock",
+    "category": "PC Components"
+  },
+  {
+    "name": "ASUS ROG Strix Z790-E Gaming WiFi DDR5 Motherboard",
+    "image": "assets/images/products/asus_rog_strix_z790_e_gaming_wifi_ddr5_motherboard.jpg",
+    "price_in_inr": "₹38,999",
+    "discount": "Approx. 10% off vs MRP",
+    "rating": 4.8,
+    "description": "Premium LGA1700 motherboard with 20+1 power stages, PCIe 5.0 slots, Thunderbolt 4, and WiFi 6E. For high-end Intel builds.",
+    "availability": "In Stock",
+    "category": "PC Components"
+  },
+  {
+    "name": "Intel Core i7-14700K Processor",
+    "image": "assets/images/products/intel_core_i7_14700k_processor.jpg",
+    "price_in_inr": "₹38,500",
+    "discount": null,
+    "rating": 4.7,
+    "description": "14th Gen processor with 20 cores (8P+12E) and 28 threads. Up to 5.6GHz boost. Excellent for gaming, streaming, and productivity.",
+    "availability": "In Stock",
+    "category": "PC Components"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 4070 Super 12GB",
+    "image": "assets/images/products/nvidia_geforce_rtx_4070_super_12gb.jpg",
+    "price_in_inr": "₹62,999",
+    "discount": "Launch price",
+    "rating": 4.7,
+    "description": "1440p gaming powerhouse with DLSS 3.5, 12GB GDDR6X memory. Excellent ray tracing performance. Efficient Ada Lovelace architecture.",
+    "availability": "In Stock",
+    "category": "PC Components"
+  },
+  {
+    "name": "WD Black SN850X 2TB NVMe M.2 SSD",
+    "image": "assets/images/products/wd_black_sn850x_2tb_nvme_m_2_ssd.jpg",
+    "price_in_inr": "₹15,999",
+    "discount": null,
+    "rating": 4.8,
+    "description": "High-performance PCIe 4.0 SSD with 7300MB/s read speeds. Gaming Mode 2.0 and built-in thermal management. 2TB capacity.",
+    "availability": "In Stock",
+    "category": "PC Components"
+  },
+  {
+    "name": "Logitech G Pro X Mechanical Gaming Keyboard",
+    "image": "assets/images/products/logitech_g_pro_x_mechanical_gaming_keyboard.jpg",
+    "price_in_inr": "₹12,999",
+    "discount": "Approx. 15% off vs MRP",
+    "rating": 4.7,
+    "description": "Tenkeyless mechanical keyboard with GX Blue Clicky switches (hot-swappable), LIGHTSYNC RGB, and tournament-ready design. Durable compact build.",
+    "availability": "In Stock",
+    "category": "Gaming Peripherals"
+  },
+  {
+    "name": "Razer BlackWidow V3 Mechanical Keyboard",
+    "image": "assets/images/products/razer_blackwidow_v3_mechanical_keyboard.jpg",
+    "price_in_inr": "₹9,499",
+    "discount": "Approx. 20% off vs MRP",
+    "rating": 4.6,
+    "description": "Full-size mechanical keyboard with Razer Green clicky switches, customizable Chroma RGB, and dedicated media controls. Aluminum top plate.",
+    "availability": "In Stock",
+    "category": "Gaming Peripherals"
+  },
+  {
+    "name": "Cosmic Byte CB-GK-18 Firefly Tenkeyless Keyboard",
+    "image": "assets/images/products/cosmic_byte_cb_gk_18_firefly_tenkeyless_keyboard.jpg",
+    "price_in_inr": "₹2,199",
+    "discount": null,
+    "rating": 4.3,
+    "description": "Budget mechanical-feel keyboard with Outemu Blue switches, rainbow LED backlighting, and anti-ghosting. Great entry-level option for Indian gamers.",
+    "availability": "In Stock",
+    "category": "Gaming Peripherals"
+  },
+  {
+    "name": "Logitech G502 X Plus Lightspeed Wireless Gaming Mouse",
+    "image": "assets/images/products/logitech-g502-x-plus.jpg",
+    "price_in_inr": "₹13,999",
+    "discount": "Approx. 12% off vs MRP",
+    "rating": 4.8,
+    "description": "Wireless gaming mouse with LIGHTFORCE hybrid switches, HERO 25K sensor, LIGHTSYNC RGB, and adjustable weight system. Lightspeed wireless technology.",
+    "availability": "In Stock",
+    "category": "Gaming Peripherals"
+  },
+  {
+    "name": "Razer DeathAdder V2 Gaming Mouse",
+    "image": "assets/images/products/razer_deathadder_v2_gaming_mouse.jpg",
+    "price_in_inr": "₹4,999",
+    "discount": "Approx. 30% off vs MRP",
+    "rating": 4.7,
+    "description": "Ergonomic wired gaming mouse with Focus+ 20K DPI optical sensor, 8 programmable buttons, and Razer Speedflex cable. Classic shape improved.",
+    "availability": "In Stock",
+    "category": "Gaming Peripherals"
+  },
+  {
+    "name": "SteelSeries Rival 3 Wireless Gaming Mouse",
+    "image": "assets/images/products/steelseries_rival_3_wireless_gaming_mouse.jpg",
+    "price_in_inr": "₹3,499",
+    "discount": null,
+    "rating": 4.4,
+    "description": "Affordable wireless gaming mouse with 200+ hour battery life, TrueMove Core sensor, and lightweight design. Dual connectivity (Bluetooth/2.4GHz).",
+    "availability": "In Stock",
+    "category": "Gaming Peripherals"
+  },
+  {
+    "name": "SteelSeries Arctis Nova 7 Wireless Gaming Headset",
+    "image": "assets/images/products/steelseries_arctis_nova_7_wireless_gaming_headset.jpg",
+    "price_in_inr": "₹16,999",
+    "discount": "Approx. 10% off vs MRP",
+    "rating": 4.8,
+    "description": "Multi-platform wireless headset with Sonar audio software, 38-hour battery, ClearCast Gen 2 microphone, and simultaneous Bluetooth + 2.4GHz.",
+    "availability": "In Stock",
+    "category": "Gaming Peripherals"
+  },
+  {
+    "name": "HyperX Cloud II Wireless Gaming Headset",
+    "image": "assets/images/products/hyperx_cloud_ii_wireless_gaming_headset.jpg",
+    "price_in_inr": "₹10,999",
+    "discount": null,
+    "rating": 4.7,
+    "description": "Wireless 7.1 surround sound headset with 30-hour battery, memory foam ear cushions, and detachable noise-cancelling microphone. Comfortable for long sessions.",
+    "availability": "In Stock",
+    "category": "Gaming Peripherals"
+  },
+  {
+    "name": "Cosmic Byte H5 Wired Gaming Headset",
+    "image": "assets/images/products/cosmic_byte_h5_wired_gaming_headset.jpg",
+    "price_in_inr": "₹1,799",
+    "discount": "Approx. 15% off vs MRP",
+    "rating": 4.2,
+    "description": "Budget wired gaming headset with 7.1 virtual surround, noise-cancelling microphone, RGB lighting, and over-ear design. Good value for money.",
+    "availability": "In Stock",
+    "category": "Gaming Peripherals"
+  },
+  {
+    "name": "Xbox Wireless Controller (Carbon Black)",
+    "image": "assets/images/products/xbox_wireless_controller_carbon_black.jpg",
+    "price_in_inr": "₹5,499",
+    "discount": "Approx. 8% off vs MRP",
+    "rating": 4.7,
+    "description": "Official Xbox controller with Bluetooth, textured grip, hybrid D-pad, and custom button mapping via Xbox Accessories app. Works on Xbox, PC, and mobile.",
+    "availability": "In Stock",
+    "category": "Gaming Peripherals"
+  },
+  {
+    "name": "Sony PlayStation DualSense Wireless Controller",
+    "image": "assets/images/products/sony_playstation_dualsense_wireless_controller.jpg",
+    "price_in_inr": "₹5,999",
+    "discount": null,
+    "rating": 4.6,
+    "description": "PS5 controller with adaptive triggers, haptic feedback, built-in microphone, and create button. Also works with PC via Bluetooth or USB.",
+    "availability": "In Stock",
+    "category": "Gaming Peripherals"
+  },
+  {
+    "name": "Razer Wolverine V2 Chroma Wired Controller",
+    "image": "assets/images/products/razer_wolverine_v2_chroma_wired_controller.jpg",
+    "price_in_inr": "₹14,999",
+    "discount": "Approx. 12% off vs MRP",
+    "rating": 4.5,
+    "description": "Pro wired controller for Xbox/PC with Razer Mecha-Tactile action buttons, 6 remappable triggers, Chroma RGB, and trigger stop switches.",
+    "availability": "In Stock",
+    "category": "Gaming Peripherals"
+  },
+  {
+    "name": "SteelSeries QcK Heavy XXL Gaming Mousepad",
+    "image": "assets/images/products/steelseries_qck_heavy_xxl_gaming_mousepad.jpg",
+    "price_in_inr": "₹3,999",
+    "discount": null,
+    "rating": 4.7,
+    "description": "Extra-large (900x400x6mm) cloth mousepad with optimized surface for precision tracking and non-slip rubber base. Fits keyboard and mouse.",
+    "availability": "In Stock",
+    "category": "Gaming Peripherals"
+  },
+  {
+    "name": "Razer Goliathus Chroma Extended Gaming Mousepad",
+    "image": "assets/images/products/razer_goliathus_chroma_extended_gaming_mousepad.jpg",
+    "price_in_inr": "₹6,499",
+    "discount": "Approx. 10% off vs MRP",
+    "rating": 4.6,
+    "description": "Extended RGB mousepad with customizable Chroma lighting, micro-textured surface, and anti-fray stitching. 355x255mm size with USB connectivity.",
+    "availability": "In Stock",
+    "category": "Gaming Peripherals"
+  },
+  {
+    "name": "Redgear MP80 Speed-Type Gaming Mousepad",
+    "image": "assets/images/products/redgear_mp80_speed_type_gaming_mousepad.jpg",
+    "price_in_inr": "₹499",
+    "discount": "Approx. 20% off vs MRP",
+    "rating": 4.4,
+    "description": "Budget large gaming mousepad (800x300mm) with water-resistant surface, anti-skid rubber base, and stitched edges. Popular in Indian market.",
+    "availability": "In Stock",
+    "category": "Gaming Peripherals"
+  },
+  {
+    "name": "Elgato Wave DX Broadcast Microphone",
+    "image": "assets/images/products/elgato_wave_dx_broadcast_microphone.jpg",
+    "price_in_inr": "₹14,999",
+    "discount": null,
+    "rating": 4.6,
+    "description": "XLR broadcast dynamic microphone with professional-grade sound, tight polar pattern for noise rejection, and built-in pop filter. Ideal for streaming.",
+    "availability": "In Stock",
+    "category": "Gaming Peripherals"
+  },
+  {
+    "name": "HP Smart Tank 520 All-in-One Printer",
+    "image": "assets/images/products/hp_smart_tank_520_all_in_one_printer.jpg",
+    "price_in_inr": "₹17,999",
+    "discount": "Approx. 18% off vs MRP",
+    "rating": 4.5,
+    "description": "Ink tank all-in-one printer with print, scan, copy functions. Includes 2 years of ink (up to 8,000 color pages), Wi-Fi Direct, and automatic document feeder. Low cost per page.",
+    "availability": "In Stock",
+    "category": "Office Solutions"
+  },
+  {
+    "name": "Epson EcoTank L3210 All-in-One Printer",
+    "image": "assets/images/products/epson_ecotank_l3210_all_in_one_printer.jpg",
+    "price_in_inr": "₹15,499",
+    "discount": null,
+    "rating": 4.6,
+    "description": "Popular ink tank printer with print, scan, copy. Comes with 2 years of ink (up to 7,500 pages), USB connectivity, and compact design. Excellent for home and small offices.",
+    "availability": "In Stock",
+    "category": "Office Solutions"
+  },
+  {
+    "name": "Canon PIXMA G3070 All-in-One Printer",
+    "image": "assets/images/products/canon_pixma_g3070_all_in_one_printer.jpg",
+    "price_in_inr": "₹16,299",
+    "discount": "Approx. 12% off vs MRP",
+    "rating": 4.4,
+    "description": "Ink tank printer with print, scan, copy, Wi-Fi, Ethernet, and 2-line LCD. Includes 2 years of ink (up to 6,000 pages). Supports auto duplex printing.",
+    "availability": "In Stock",
+    "category": "Office Solutions"
+  },
+  {
+    "name": "Brother DCP-T420W All-in-One Ink Tank Printer",
+    "image": "assets/images/products/brother_dcp_t420w_all_in_one_ink_tank_printer.jpg",
+    "price_in_inr": "₹14,999",
+    "discount": null,
+    "rating": 4.3,
+    "description": "Compact ink tank printer with print, scan, copy, Wi-Fi, and NFC connectivity. Includes 1 year of ink (up to 6,500 pages). Ideal for small office space.",
+    "availability": "In Stock",
+    "category": "Office Solutions"
+  },
+  {
+    "name": "HP LaserJet Pro MFP M428fdw Printer",
+    "image": "assets/images/products/hp_laserjet_pro_mfp_m428fdw_printer.jpg",
+    "price_in_inr": "₹39,999",
+    "discount": "Approx. 15% off vs MRP",
+    "rating": 4.6,
+    "description": "Monochrome laser all-in-one with print, scan, copy, fax. Automatic document feeder, duplex printing, Wi-Fi, Ethernet. Fast printing up to 40ppm. For medium offices.",
+    "availability": "In Stock",
+    "category": "Office Solutions"
+  },
+  {
+    "name": "Xerox B205 All-in-One Multifunction Printer",
+    "image": "assets/images/products/xerox_b205_all_in_one_multifunction_printer.jpg",
+    "price_in_inr": "₹22,500",
+    "discount": null,
+    "rating": 4.2,
+    "description": "Compact monochrome laser printer with print, scan, copy. Wi-Fi, Ethernet, USB connectivity. Prints up to 26ppm. Energy efficient with low running costs.",
+    "availability": "In Stock",
+    "category": "Office Solutions"
+  },
+  {
+    "name": "Epson Perfection V39 Color Photo Scanner",
+    "image": "assets/images/products/epson_perfection_v39_color_photo_scanner.jpg",
+    "price_in_inr": "₹8,999",
+    "discount": "Approx. 10% off vs MRP",
+    "rating": 4.3,
+    "description": "Compact color photo and document scanner with 4800 dpi optical resolution. Includes one-touch buttons, LED light source, and Easy Photo Fix software.",
+    "availability": "In Stock",
+    "category": "Office Solutions"
+  },
+  {
+    "name": "Canon CanoScan LiDE 300 Scanner",
+    "image": "assets/images/products/canon_canoscan_lide_300_scanner.jpg",
+    "price_in_inr": "₹6,499",
+    "discount": null,
+    "rating": 4.4,
+    "description": "Slim, portable USB-powered scanner with 2400 dpi resolution. 4 buttons for quick scanning, includes Document Capture Pro software. No external power needed.",
+    "availability": "In Stock",
+    "category": "Office Solutions"
+  },
+  {
+    "name": "Brother ADS-1700W Compact Desktop Scanner",
+    "image": "assets/images/products/brother_ads_1700w_compact_desktop_scanner.jpg",
+    "price_in_inr": "₹24,999",
+    "discount": "Approx. 12% off vs MRP",
+    "rating": 4.5,
+    "description": "Professional desktop scanner with automatic document feeder (20 pages), Wi-Fi, duplex scanning, up to 30ppm. OCR software included for business use.",
+    "availability": "In Stock",
+    "category": "Office Solutions"
+  },
+  {
+    "name": "Xiaomi Mi Smart Compact Projector 2",
+    "image": "assets/images/products/xiaomi_mi_smart_compact_projector_2.jpg",
+    "price_in_inr": "₹44,999",
+    "discount": "Approx. 8% off vs MRP",
+    "rating": 4.5,
+    "description": "Portable smart projector with 1080p resolution, 500 ANSI lumens, Android TV, auto focus, and keystone correction. Compact design for mobile presentations.",
+    "availability": "In Stock",
+    "category": "Office Solutions"
+  },
+  {
+    "name": "Epson EB-E01 3LCD Projector",
+    "image": "assets/images/products/epson-eb-e01.jpg",
+    "price_in_inr": "₹32,999",
+    "discount": null,
+    "rating": 4.4,
+    "description": "Office projector with 3LCD technology, 3300 lumens, SVGA resolution (800x600), HDMI, VGA ports. Bright enough for lit rooms. Lamp life up to 12,000 hours.",
+    "availability": "In Stock",
+    "category": "Office Solutions"
+  },
+  {
+    "name": "BenQ MS550 Business Projector",
+    "image": "assets/images/products/benq_ms550_business_projector.jpg",
+    "price_in_inr": "₹54,999",
+    "discount": "Approx. 10% off vs MRP",
+    "rating": 4.6,
+    "description": "High-brightness business projector with 4000 lumens, WXGA resolution (1280x800), HDMI, VGA, USB. 10W speaker, vertical keystone correction. For medium conference rooms.",
+    "availability": "In Stock",
+    "category": "Office Solutions"
+  },
+  {
+    "name": "Godrej 4-Drawer Steel File Cabinet",
+    "image": "assets/images/products/godrej_4_drawer_steel_file_cabinet.jpg",
+    "price_in_inr": "₹12,499",
+    "discount": null,
+    "rating": 4.3,
+    "description": "Steel filing cabinet with 4 drawers, lock and key, letter/A4 size capacity. Sturdy construction, smooth ball bearing slides. Standard office storage solution.",
+    "availability": "In Stock",
+    "category": "Office Solutions"
+  },
+  {
+    "name": "AmazonBasics Heavy-Duty Paper Shredder",
+    "image": "assets/images/products/amazonbasics_heavy_duty_paper_shredder.jpg",
+    "price_in_inr": "₹9,999",
+    "discount": "Approx. 20% off vs MRP",
+    "rating": 4.2,
+    "description": "Cross-cut paper shredder with 12-sheet capacity, auto start/stop, safety lock, 16L bin. Shreds credit cards. For confidential document destruction.",
+    "availability": "In Stock",
+    "category": "Office Solutions"
+  },
+  {
+    "name": "Honeywell HAC35M Air Circulator Fan",
+    "image": "assets/images/products/honeywell_hac35m_air_circulator_fan.jpg",
+    "price_in_inr": "₹3,499",
+    "discount": null,
+    "rating": 4.4,
+    "description": "Quiet air circulator with 3 speeds, 90° oscillation, remote control, timer function. Improves air circulation in office spaces. Energy efficient.",
+    "availability": "In Stock",
+    "category": "Office Solutions"
+  }
+]
