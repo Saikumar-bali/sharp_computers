@@ -55,6 +55,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const categorySection = document.createElement('div');
             categorySection.className = 'category-section margin-bottom-medium';
+            // Add ID for anchor navigation
+            const categoryId = categoryName.toLowerCase().replace(/[\s&\/]+/g, '-');
+            categorySection.id = categoryId;
+
+            // Scroll margin offset for sticky header
+            categorySection.style.scrollMarginTop = "100px";
 
             // Header
             categorySection.innerHTML = `
@@ -120,6 +126,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Product Card HTML
     function getProductCardHTML(product) {
+        // Safe quote escaping for data attribute
+        const safeProductInfo = encodeURIComponent(JSON.stringify(product));
+
         return `
             <div class="product-card">
                 <div class="product-image-container">
@@ -135,14 +144,90 @@ document.addEventListener('DOMContentLoaded', () => {
                     </p>
                     <p class="price">
                         ${typeof product.price_in_inr === 'number'
-                            ? '₹' + product.price_in_inr.toLocaleString('en-IN')
-                            : product.price_in_inr}
+                ? '₹' + product.price_in_inr.toLocaleString('en-IN')
+                : product.price_in_inr}
                     </p>
                     ${product.discount ? `<p class="discount">${product.discount}</p>` : ''}
-                    <a href="#" class="btn-primary-small">View Details</a>
+                    <button class="btn-primary-small view-details-btn" data-product="${safeProductInfo}">
+                        View Details
+                    </button>
                 </div>
             </div>
         `;
+    }
+
+    // Modal Logic
+    const modal = document.getElementById('product-modal');
+    const closeModal = document.getElementById('close-modal');
+    const modalImg = document.getElementById('modal-img');
+    const modalCategory = document.getElementById('modal-category');
+    const modalTitle = document.getElementById('modal-title');
+    const modalPrice = document.getElementById('modal-price');
+    const modalDesc = document.getElementById('modal-description');
+    const modalStock = document.getElementById('modal-availability');
+
+    // Event Delegation for "View Details" click
+    productsGrid.addEventListener('click', (e) => {
+        if (e.target.classList.contains('view-details-btn')) {
+            const productData = e.target.getAttribute('data-product');
+            if (productData) {
+                try {
+                    const product = JSON.parse(decodeURIComponent(productData));
+                    openModal(product);
+                } catch (err) {
+                    console.error("Error parsing product data", err);
+                }
+            }
+        }
+    });
+
+    function openModal(product) {
+        if (!modal) return;
+
+        modalImg.src = product.image;
+        modalCategory.textContent = product.category;
+        modalTitle.textContent = product.name;
+
+        modalPrice.textContent = typeof product.price_in_inr === 'number'
+            ? '₹' + product.price_in_inr.toLocaleString('en-IN')
+            : product.price_in_inr;
+
+        // Use full description or fallback
+        modalDesc.innerHTML = product.description
+            ? product.description.replace(/:contentReference\[oaicite:\d+\]\{index=\d+\}/g, '') // Remove citation artifacts if any
+            : 'No description available.';
+
+        modalStock.textContent = product.availability || 'In Stock';
+
+        modal.classList.add('active');
+        document.body.style.overflow = 'hidden'; // Prevent scrolling
+    }
+
+    if (closeModal) {
+        closeModal.addEventListener('click', () => {
+            modal.classList.remove('active');
+            document.body.style.overflow = '';
+        });
+    }
+
+    // Close on outside click
+    if (modal) {
+        window.addEventListener('click', (e) => {
+            if (e.target === modal) {
+                modal.classList.remove('active');
+                document.body.style.overflow = '';
+            }
+        });
+    }
+
+    // Handle hash links on load (e.g. from footer)
+    if (window.location.hash) {
+        setTimeout(() => {
+            const element = document.querySelector(window.location.hash);
+            if (element) {
+                element.scrollIntoView({ behavior: 'smooth' });
+            }
+        }, 500); // Wait for render
     }
 
     // Search Logic

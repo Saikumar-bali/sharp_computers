@@ -748,5 +748,41 @@
     "description": "Quiet air circulator with 3 speeds, 90° oscillation, remote control, timer function. Improves air circulation in office spaces. Energy efficient.",
     "availability": "In Stock",
     "category": "Office Solutions"
+  },
+  {
+    "name": "BenQ Full HD Business Projector",
+    "category": "Visual Solutions & Projectors",
+    "image": "assets/images/products/benq_full_hd_projector.jpg",
+    "price_in_inr": "₹54,999",
+    "rating": 4.6,
+    "description": "Full HD 1080p projector with 3500 ANSI lumens, dual HDMI inputs, integrated 10W speaker. Eco-friendly mode with up to 15,000 hours lamp life. Ideal for sports screenings, movies, and corporate presentations.",
+    "availability": "In Stock"
+  },
+  {
+    "name": "DELL DC 15250 Business Laptop",
+    "category": "Laptops & Desktops",
+    "image": "assets/images/products/dell_dc_15250_laptop.jpg",
+    "price_in_inr": "₹71,666",
+    "rating": 4.3,
+    "description": "13th Gen Intel Core i5-1334U processor, 16GB DDR4 RAM, 512GB NVMe SSD, 15.6\" FHD 120Hz display. TÜV Rheinland certified, MIL-STD 810H durable, includes Microsoft Office Home & Student 2024.",
+    "availability": "Available"
+  },
+  {
+    "name": "HP LaserJet Pro MFP 323sdnw",
+    "category": "Office Solutions",
+    "image": "assets/images/products/hp_laser_mfp_323sdnw.jpg",
+    "price_in_inr": "₹28,999",
+    "rating": 4.4,
+    "description": "Wireless duplex laser printer with 40-sheet automatic document feeder, 30 ppm simplex/15 ipm duplex print speed. 250-sheet input tray, 100-sheet output tray, auto on/off technology. Compatible with Windows, macOS, Linux.",
+    "availability": "In Stock"
+  },
+  {
+    "name": "Canon PIXMA G3010 All-in-One",
+    "category": "Office Solutions",
+    "image": "assets/images/products/canon_pixma_g3010.jpg",
+    "price_in_inr": "₹12,999",
+    "rating": 4.2,
+    "description": "Refillable ink tank wireless all-in-one printer with print, scan, copy functions. WiFi connectivity for high volume printing, 6000 pages mono yield/7000 pages color yield. Borderless photo printing, 100-sheet paper input capacity.",
+    "availability": "In Stock"
   }
 ]

@@ -23,6 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // FIXED CATEGORY ORDER (as requested)
             const orderedCategories = [
+                "Visual Solutions & Projectors",
                 "Laptops & Desktops",
                 "Gaming Peripherals",
                 "Office Solutions",
@@ -71,7 +72,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         : product.price_in_inr}
                                         </p>
 
-                                        <a href="products.html" class="btn-text">
+                                        <a href="products.html#${categoryId}" class="btn-text">
                                             View Details <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -80,7 +81,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         </div>
 
                         <div class="text-center margin-top-small">
-                            <a href="products.html" class="btn-secondary">
+                            <a href="products.html#${categoryId}" class="btn-secondary">
                                 View All ${categoryName}
                             </a>
                         </div>
