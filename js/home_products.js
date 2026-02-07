@@ -89,6 +89,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 productSectionsContainer.appendChild(section);
             });
+
+            // Handle scroll to hash if present in URL after dynamic content is loaded
+            if (window.location.hash) {
+                const targetId = window.location.hash.substring(1);
+                const targetElement = document.getElementById(targetId);
+                if (targetElement) {
+                    setTimeout(() => {
+                        targetElement.scrollIntoView({ behavior: 'smooth' });
+                    }, 500); // Small delay to ensure rendering is complete
+                }
+            }
         })
         .catch(error => {
             console.error('Error fetching products:', error);
