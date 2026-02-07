@@ -2,20 +2,27 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sharp Computers - Home</title>
-    <link rel="icon" type="image/png" href="assets/images/favicon.png">
-    <meta name="description"
-        content="Sharp Computers: 25 years of expertise in IT, Tally Solutions, Hardware, and Surveillance in Vijayawada.">
-    <link rel="stylesheet" href="css/style.css">
-    <!-- Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <!-- Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-</head>
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Sharp Computers - Home</title>
+        <link rel="icon" type="image/png" href="assets/images/favicon.png">
+        <meta name="description"
+            content="Sharp Computers: 25 years of expertise in IT, Tally Solutions, Hardware, and Surveillance in Vijayawada.">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/visual_solutions.css">
+
+        <!-- Google Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+            rel="stylesheet">
+        <!-- Icons -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    </head>
 
 <body>
 
@@ -193,6 +200,35 @@
         </div>
     </section>
 
+    <!-- Visual Solutions & Projectors Slider -->
+    <section class="section-padding bg-light" id="visual-solutions-projectors">
+        <div class="container">
+            <div class="section-header text-center fade-in-up">
+                <h2>Featured Visual Solutions</h2>
+                <p>Enhance your workspace with our premium range of projectors, monitors, and business laptops.</p>
+            </div>
+
+            <div class="visual-solutions-slider">
+                <div class="slider-container">
+                    <!-- Slides will be injected here by JS -->
+                    <div class="text-center" style="padding: 100px;">
+                        <i class="fa-solid fa-spinner fa-spin fa-3x" style="color: var(--primary-color);"></i>
+                        <p style="margin-top: 20px;">Loading premium solutions...</p>
+                    </div>
+                </div>
+
+                <!-- Slider Navigation -->
+                <div class="slider-nav">
+                    <button class="nav-btn prev-btn"><i class="fa-solid fa-chevron-left"></i></button>
+                    <button class="nav-btn next-btn"><i class="fa-solid fa-chevron-right"></i></button>
+                </div>
+
+                <!-- Slider Dots -->
+                <div class="slider-dots"></div>
+            </div>
+        </div>
+    </section>
+
     <!-- Dynamic Product Sections -->
     <div id="home-product-sections"></div>
 
@@ -300,7 +336,9 @@
     </footer>
 
     <script src="js/script.js"></script>
+    <script src="js/visual_solutions.js"></script>
     <script src="js/home_products.js"></script>
+
 </body>
 
 </html>

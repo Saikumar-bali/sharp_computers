@@ -23,7 +23,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // FIXED CATEGORY ORDER (as requested)
             const orderedCategories = [
-                "Visual Solutions & Projectors",
                 "Laptops & Desktops",
                 "Gaming Peripherals",
                 "Office Solutions",

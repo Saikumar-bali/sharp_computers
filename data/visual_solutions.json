@@ -1,0 +1,100 @@
+[
+    {
+        "id": "benq-projector",
+        "name": "BenQ MX560 Business Projector",
+        "category": "Projectors",
+        "images": [
+            "assets/images/products/Projector/1.jpeg",
+            "assets/images/products/Projector/2.jpeg",
+            "assets/images/products/Projector/2.webp",
+            "assets/images/products/Projector/3.jpeg"
+        ],
+        "price": "₹37,660",
+        "features": [
+            "4000 ANSI Lumens high brightness",
+            "XGA (1024x768) resolution",
+            "15,000-hour LED light source life",
+            "DLP Technology for sharp visuals"
+        ],
+        "description": "A bright, portable business-class DLP projector perfect for classrooms and meeting rooms.",
+        "isNew": true
+    },
+    {
+        "id": "benq-monitor",
+        "name": "BenQ EW2780 27-inch IPS Monitor",
+        "category": "Monitors",
+        "images": [
+            "assets/images/products/Monitor/1.jpeg",
+            "assets/images/products/Monitor/2.jpeg",
+            "assets/images/products/Monitor/3.avif",
+            "assets/images/products/Monitor/4.avif"
+        ],
+        "price": "₹16,500",
+        "features": [
+            "27-inch Full HD (1920x1080) IPS panel",
+            "BenQ HDRi technology & Eye-Care",
+            "Built-in speakers (2.5W x 2)",
+            "75Hz Refresh rate & Flicker-free"
+        ],
+        "description": "Designed for multimedia enjoyment with HDR enhancement and superior eye-care features.",
+        "isNew": true
+    },
+    {
+        "id": "dell-laptop",
+        "name": "Dell 15 DC15250 Business Laptop",
+        "category": "Laptops",
+        "images": [
+            "assets/images/products/Dell_PC _Laptop/Dellpng_1080x1080.png",
+            "assets/images/products/Dell_PC _Laptop/Dell-1png_1080x1080.png"
+        ],
+        "price": "₹71,666",
+        "features": [
+            "Intel Core i5-1334U 13th Gen CPU",
+            "16GB DDR4 RAM & 512GB SSD",
+            "15.6-inch FHD 120Hz display",
+            "Windows 11 + MS Office Home & Student 2024"
+        ],
+        "description": "A powerful, portable productivity machine for students and professionals.",
+        "isNew": true
+    },
+    {
+        "id": "hp-printer",
+        "name": "HP LaserJet Pro MFP 323sdnw",
+        "category": "Printers",
+        "images": [
+            "assets/images/products/HP_monochrome_laser_printer/1.webp",
+            "assets/images/products/HP_monochrome_laser_printer/2.webp",
+            "assets/images/products/HP_monochrome_laser_printer/3.jpeg",
+            "assets/images/products/HP_monochrome_laser_printer/4.jpeg"
+        ],
+        "price": "₹27,159",
+        "features": [
+            "Monochrome laser multifunction printer",
+            "Automatic duplex (two-sided) printing",
+            "Fast 30 ppm print speed",
+            "Wi-Fi & Ethernet connectivity"
+        ],
+        "description": "High-efficiency monochrome laser printer built for small businesses and SMBs.",
+        "isNew": true
+    },
+    {
+        "id": "canon-printer",
+        "name": "Canon PIXMA G3010 All-in-One",
+        "category": "Printers",
+        "images": [
+            "assets/images/products/benq_projector/1.jpeg",
+            "assets/images/products/benq_projector/2.webp",
+            "assets/images/products/benq_projector/3.jpeg",
+            "assets/images/products/benq_projector/4.webp"
+        ],
+        "price": "₹14,998",
+        "features": [
+            "Refillable Ink Tank Wireless System",
+            "Print, Scan, Copy functions",
+            "High page yield (6000 black / 7000 color)",
+            "Low cost per page printing"
+        ],
+        "description": "Budget-friendly color ink-tank printer ideal for home users and small offices.",
+        "isNew": true
+    }
+]
