@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Header
             categorySection.innerHTML = `
-                <div class="section-header text-center padding-bottom-small">
+                <div class="section-header text-center padding-top-small">
                     <h3>${categoryName}</h3>
                     <div class="line"></div>
                 </div>
