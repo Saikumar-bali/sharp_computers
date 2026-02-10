@@ -180,9 +180,14 @@ img {
 }
 
 .logo {
-    font-size: 1.5rem;
-    font-weight: 700;
-    color: var(--text-color);
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 40px;          /* adjust as needed */
+  width: auto;
+  object-fit: contain;
 }
 
 .logo span {
